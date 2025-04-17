@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🐾 Hi, I’m Makayla
 
-<!--
-**mcrou007/mcrou007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “I may look like a cat, but I promise I’m not one… probably.”
 
-Here are some ideas to get you started:
+😼 Tech enthusiast by day, cozy chaos gremlin by night.  
+☕ Thrives on caffeine, memes, and mysterious vibes.  
+💻 Currently learning to code (but still hissing at bugs).  
+🌙 Loves the moon, lo-fi beats, and pretending life is a Studio Ghibli movie.  
+🐱 Not actually a cat, despite strong feline energy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 Reach me... or leave some tuna and I might appear.
